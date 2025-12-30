@@ -37,4 +37,4 @@ Select your board and port.
 
 Click Upload.
 
-![Circuit Diagram](./circuit.png)
+![Circuit Diagram](./circuit.jpeg)
